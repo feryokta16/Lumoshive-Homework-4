@@ -1,0 +1,15 @@
+/* styles.css */
+.App {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+@media (min-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+}
